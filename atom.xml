@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://is-shiwei.com</id>
+    <title>轻航</title>
+    <updated>2024-06-25T13:26:42.389Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://is-shiwei.com"/>
+    <link rel="self" href="https://is-shiwei.com/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://is-shiwei.com/images/avatar.png</logo>
+    <icon>https://is-shiwei.com/favicon.ico</icon>
+    <rights>All rights reserved 2024, 轻航</rights>
+</feed>
